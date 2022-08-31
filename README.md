@@ -1,4 +1,4 @@
-#Digital Retail Store
+### Retail Digital Store
 Retail digital store is a type of application that establishes discount calculation according to the given constraints.
 Retail digital store is built with the following: Java, Junit, ArgoUML and Maven tool.
 
